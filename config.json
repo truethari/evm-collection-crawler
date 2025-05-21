@@ -1,0 +1,10 @@
+{
+  "BASE_URL": "https://example/metadata",
+  "MIN_TOKEN_ID": 1,
+  "MAX_TOKEN_ID": 1000,
+  "BATCH_SIZE": 50,
+  "IGNORE_IMAGES": false,
+  "OUTPUT_DIR": "./downloads",
+  "IPFS_GATEWAY": "https://ipfs.io/ipfs",
+  "S3_UPLOAD_PATH": "/0x000000000/json"
+}

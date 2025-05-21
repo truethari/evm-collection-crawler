@@ -26,7 +26,7 @@ curl -fsSL https://bun.sh/install | bash
 Run the script:
 
 ```bash
-bun index.ts
+bun run downloader.ts
 ```
 
 Replace index.ts with the actual filename if different.
